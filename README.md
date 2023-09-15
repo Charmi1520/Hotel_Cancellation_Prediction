@@ -1,9 +1,9 @@
 # Implementation of a Hotel Booking Cancellation predictive model using machine learning algorithms.
 
 Following are the steps for the implementation.
-*Exploratory Data Analysis*
-*Data Pre-Processing*
-*Model Building*
+*Exploratory Data Analysis*,
+*Data Pre-Processing*,
+*Model Building* and
 *Model Comparison*
 
 **Phases Involved in Exploratory Data Analysis**
